@@ -16,7 +16,7 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+  } 
 `;
 const PhoneCover = styled.div`
   background-image: url( ${ phoneCoverSvg } );
